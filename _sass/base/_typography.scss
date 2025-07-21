@@ -205,6 +205,23 @@ main {
   }
 }
 
+.site-title {
+  font-weight: 700; // 아이디
+  font-size: 1.7rem;
+  color: #222222;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.post-title {
+  font-weight: 700; // 글 제목
+  font-size: 1.4rem;
+}
+
 .footnote {
   @at-root a#{&} {
     @include mx.ml-mr(1px);
