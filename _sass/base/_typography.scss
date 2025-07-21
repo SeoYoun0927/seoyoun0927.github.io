@@ -216,7 +216,10 @@ h2,
 h3,
 h4,
 h5,
-h6,
+h6 {
+  font-weight: 900; // 볼드 효과만 적용
+}
+
 .post-title {
   font-weight: 900; // 글 제목
   font-size: 1.4rem;
