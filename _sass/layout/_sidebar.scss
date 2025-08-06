@@ -112,7 +112,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
   .site-subtitle {
     font-size: 95%;
     color: var(--site-subtitle-color);
-    margin-top: 2rem;
+    margin-top: 3rem;
     word-spacing: 1px;
     -webkit-user-select: none;
     -moz-user-select: none;
@@ -139,7 +139,7 @@ $sidebar-display: 'sidebar-display'; /* the attribute for sidebar display */
         display: flex;
         align-items: center;
         border-radius: 0.75rem;
-        font-weight: 600;
+        font-weight: 400;
 
         &:hover {
           background-color: var(--sidebar-hover-bg);
