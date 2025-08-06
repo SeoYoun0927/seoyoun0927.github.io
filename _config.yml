@@ -195,6 +195,7 @@ defaults:
 
 sass:
   style: compressed
+  custom: assets/css/jekyll-theme-chirpy.css
 
 compress_html:
   clippings: all
